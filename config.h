@@ -3,7 +3,7 @@
 
 #define VENDOR_ID 0xFEED
 #define PRODUCT_ID 0xBEF1
-#define DEVICE_VER 0
+#define DEVICE_VER 1
 #define MANUFACTURER Bouncepaw
 #define PRODUCT Baionnette
 #define DESCRIPTION Gaming keypad optimized for TTS
